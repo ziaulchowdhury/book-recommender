@@ -1,0 +1,8 @@
+.book-details {
+    padding-top: 150px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
