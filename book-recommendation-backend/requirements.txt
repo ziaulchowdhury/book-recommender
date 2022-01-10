@@ -1,0 +1,11 @@
+### Usage: pip install -r requirements.txt
+scikit-learn
+matplotlib
+pandas
+seaborn
+plotly
+fastapi
+wordcloud
+fuzzywuzzy
+nest-asyncio
+uvicorn
